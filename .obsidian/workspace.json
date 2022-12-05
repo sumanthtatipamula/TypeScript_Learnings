@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "05b64d3ca8161180",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4ad5d1dfc210f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e9f64eef0c5643",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cc4581acfed474f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed3bd8037eb861d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a076e851a3e03f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84eec35465e9f9b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65296b8bea7b3bef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "585ba187f575a7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2874b9b3a12c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b2f20e30714e3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript_PitFalls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7ef8784c54cdf31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript_PitFalls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43713e6ff6f8e899",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7b05d1add14ea5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript_PitFalls.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "2eaf25a848affa19",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1f2b00077eb42ce1",
+        "type": "window",
+        "children": [
+          {
+            "id": "ee1f4fb04af83b7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e20e54b50335126",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "JavaScript_PitFalls.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 134,
+        "y": 176,
+        "width": 1029,
+        "height": 543,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3e20e54b50335126",
+  "lastOpenFiles": []
+}
